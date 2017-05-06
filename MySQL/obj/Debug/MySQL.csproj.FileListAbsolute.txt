@@ -1,0 +1,38 @@
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\bin\Debug\MySQL.exe.config
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\bin\Debug\MySQL.exe
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\bin\Debug\MySQL.pdb
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.csprojResolveAssemblyReference.cache
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.Form1.resources
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.csproj.GenerateResource.Cache
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.exe
+c:\users\cosmoslab\documents\visual studio 2013\Projects\MySQL\MySQL\obj\Debug\MySQL.pdb
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.exe
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.pdb
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\bin\Debug\MySQL.exe
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\bin\Debug\MySQL.pdb
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.csprojResolveAssemblyReference.cache
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.Form1.resources
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+C:\Users\young\Documents\카카오톡 받은 파일\MySQL\MySQL\obj\Debug\MySQL.csproj.GenerateResource.Cache
+C:\Users\young\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.exe
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.pdb
+C:\Users\young\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.exe
+C:\Users\young\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.pdb
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.csprojResolveAssemblyReference.cache
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Form1.resources
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.csproj.GenerateResource.Cache
+C:\Users\young\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Resources.Resources.resources
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.exe.config
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.exe
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.pdb
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.exe
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\bin\Debug\MySQL.pdb
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.csprojResolveAssemblyReference.cache
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Form1.resources
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Properties.Resources.resources
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.Resources.Resources.resources
+C:\Users\car22_000\Desktop\연구실자리관리\MySQL\obj\Debug\MySQL.csproj.GenerateResource.Cache
